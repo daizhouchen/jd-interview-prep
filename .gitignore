@@ -1,0 +1,25 @@
+# 用户实际生成的 battle map 含个人简历内容，不上传
+workspace/
+*.local.html
+*.private.html
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Python (跑 evals 时可能产生)
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Node (HTML 模板调试时可能用)
+node_modules/
+
+# Logs
+*.log

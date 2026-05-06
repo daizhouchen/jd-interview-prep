@@ -1,0 +1,26 @@
+{
+  "skill_name": "jd-interview-prep",
+  "evals": [
+    {
+      "id": 1,
+      "name": "volcark-ai-app-pm-intern",
+      "prompt": "我下周要面试火山方舟的 AI Application 产品与解决方案实习生岗位，帮我准备面试。我是计算机硕士在读，研究生阶段做过医疗领域 RAG 项目（用 LangChain + ChromaDB + GPT-4，对接 200+ 临床指南，服务测试用户日均 ~500 query），最近在帮一个朋友的电商创业公司做导购 Agent PoC。下面是 JD：\n\nAI Application产品与解决方案实习生-火山方舟\n北京 / 实习 / 产品 - 产品经理 / 日常实习\n\n职位描述：\n1、负责AI搜推、知识库、记忆库、向量数据库等大模型技术在垂类行业应用场景需求收集及调研，参与方案设计；\n2、负责配合产品解决方案人员推动AI搜推在电商导购、视频行业、新闻资讯及图搜等方向的客户沟通、落地及交付；\n3、负责跟进重点客户，配合推动达成合作，树立行业标杆案例，梳理完善产品方案的行业最佳实践；\n4、负责协助产品解决方案人员和产品同学进行项目管理，配合客户在接入及交付过程中的问题答疑；\n5、负责基于行业需求和产品能力，完善和迭代见客材料。\n\n职位要求：\n1、硕士及以上学位在读，计算机科学、人工智能、信息工程、软件工程等相关专业优先；\n2、熟悉深度学习、LLM、VLM相关的算法和大模型技术，有一定的算法应用实习经验优先；\n3、有清晰的逻辑思维和表达能力，具有较强的客户服务意识，能有效翻译客户需求、串联产品和研发，具有较强的责任心和执行力；\n4、实习时间保证每周至少4天，持续至少6个月。\n\n加分项：\n1、熟悉相关领域PE调试方法，有Prompt调试/Agent搭建实践案例优先；\n2、PPT和方案总结能力较强者优先；\n3、具备优秀的英语读写能力，商务英语沟通交流能力。",
+      "expected_output": "一份单文件 HTML 作战地图，包含：(1) 元认知诊断段落开篇；(2) L1 战略层完整（JD 解码三栏 + 火山方舟场域分析含 A/B/C/D 置信度 + 叙事主轴 + 黑话校准）；(3) L2 战术层完整（轮次画像 + 命中 4-5 个 AI PM 考题域附三档对比 + 用户简历项目深挖 + 4-6 个行为题三档对比）；(4) L3 话术层完整（自我介绍三档 + 反问 4 层 × 4 题 + 实习场景 offer 谈判 + 面试前后仪式）；(5) 紧急速查页。HTML 单文件 < 1MB，可独立打开。",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "moonshot-pm-fulltime",
+      "prompt": "我想申请月之暗面的 AI 产品经理（社招），下面是 JD：\n\nAI 产品经理 / 月之暗面\n上海 / 全职 / 3-5 年经验\n\n岗位职责：\n- 负责 Kimi 智能助手核心场景产品迭代，尤其是长文档理解、Agentic Search、Coding Agent 方向\n- 主导用户调研与需求洞察，深度理解 C 端用户在 AI 产品上的真实使用模式\n- 设计 eval 体系，定义产品成功标准，与算法团队协作推动模型能力转化为用户价值\n- 跨团队协作（算法 / 工程 / 设计 / 增长），推动产品从 0 到 1 落地\n\n岗位要求：\n- 3-5 年 PM 经验，至少 1 年 AI 产品经验\n- 对 LLM、Agent、RAG 等概念有深度理解，能讲清楚技术权衡\n- 有从 0 到 1 主导产品上线的经验\n- 强结构化思维和书面表达\n\n我之前在某互联网大厂做了 4 年内容产品 PM，过去 1 年开始转 AI 方向，参与了一个 AI 写作助手的 0-1 项目（DAU 5w 左右）。现在希望进入更前沿的 AI 团队。",
+      "expected_output": "针对中级 PM 跳槽场景的作战地图。元认知诊断指出'你简历过了说明产品基础没问题，对方在评 AI sense 和 0-1 经验深度'。场域分析突出月之暗面的'长上下文'技术标签和 Coding/Agent 战略转型。AI PM 考题命中 eval 设计、Agentic Search、cost-quality 三角。轮次链推断 4-5 轮含终面。谈判剧本走中级跳槽，强调 BATNA 和 RSU。",
+      "files": []
+    },
+    {
+      "id": 3,
+      "name": "anthropic-china-product-lead",
+      "prompt": "I'm applying to Anthropic's China Product Lead role. Here's the JD:\n\nProduct Lead, China\nLocation: Beijing or Remote (China)\nLevel: Senior\n\nResponsibilities:\n- Define and execute Anthropic's product strategy for the China market\n- Partner with engineering, research, and policy teams to ship China-relevant capabilities\n- Build relationships with key Chinese enterprise customers and developers\n- Ensure Anthropic's safety-first approach is preserved in market-specific adaptations\n\nRequirements:\n- 7+ years PM experience, including 3+ years in AI/ML products\n- Track record of shipping products at scale in China\n- Deep understanding of LLM capabilities, limitations, and safety\n- Fluent in Mandarin and English; ability to bridge cultures\n- Strong written communication; this team writes everything in long-form docs\n\n我有 8 年互联网产品经验（前 5 年在阿里做 B 端 SaaS，最近 3 年在某 AI 创业公司做 LLM 应用平台），希望转向更国际化、更注重 AI safety 的环境。",
+      "expected_output": "针对 senior 外企的作战地图。元认知诊断点出'Anthropic 这家面试评估的是 long-form thinking 和 safety mindset，不是大厂的 KPI 拉通'。场域分析突出 Anthropic 的 constitutional AI / safety-first / written culture。AI PM 考题命中 hallucination 治理 + AI 安全 + framing 题（你怎么看 Anthropic 的 constitutional 路线）。黑话校准全面切换到北美派。谈判剧本面向 senior + 外企，强调 RSU vesting + visa + remote。",
+      "files": []
+    }
+  ]
+}
