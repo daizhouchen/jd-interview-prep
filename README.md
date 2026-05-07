@@ -158,6 +158,24 @@ jd-interview-prep/
 - Claude.ai（手动复制 SKILL.md 内容到对话）
 - 其他支持 SKILL.md 格式的 Claude harness
 
+## 配套 skill：[`jd-interview-arsenal`](https://github.com/daizhouchen/jd-interview-arsenal)
+
+作战地图教你 **"怎么答"**——它假设你已经懂那些概念。但当面试官追问"chunk size 800 是为什么、不是 512 或 1024"时，作战地图的话术答不到第二层就破防了。
+
+`jd-interview-arsenal` 解决的就是这一痛点——**给你被深问到任意细节都能 articulate 的"5 follow-up 预演"武器卡**。
+
+| 维度 | jd-interview-prep（本仓库）| [jd-interview-arsenal](https://github.com/daizhouchen/jd-interview-arsenal) |
+|---|---|---|
+| 解决的痛 | "我不知道怎么准备" | "我知道怎么准备但怕被深问破防" |
+| 输出 | 三层作战地图（战略 / 战术 / 话术）| 6 大 Library 武器卡 + 紧急速查 |
+| 体量 | ~100KB / ~1300 行 | ~250KB+ / ~2800 行+ |
+| 触发时机 | 拿到 JD 第一时间 | 已有作战地图、面试前 3-7 天 |
+| 核心 differentiator | 元认知诊断 + 三档对比 | 每张卡 5 个 follow-up 预演 |
+
+**典型工作流**：跑本 skill 拿"作战地图" → 跑 arsenal 拿"武器装备库" → 双 HTML 配套用，面试稳。
+
+👉 [**Live Demo**](https://daizhouchen.github.io/jd-interview-arsenal/) ｜ [Sample showcase](https://daizhouchen.github.io/jd-interview-arsenal/sample.html)
+
 ## 致谢
 
 灵感来自：
