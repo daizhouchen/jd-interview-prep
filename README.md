@@ -1,3 +1,13 @@
+<!-- daizhouchen-banner-begin -->
+<p align="center">
+  <img src="assets/hero.png" alt="jd-interview-prep" width="100%"/>
+</p>
+
+> **把一份 JD 反推成面试作战地图。三层结构（战略 / 战术 / 话术）· AI PM 方向特化。**
+>
+> *reverse-engineer a JD into a tactical interview map.*
+<!-- daizhouchen-banner-end -->
+
 # jd-interview-prep
 
 > 把一份 JD 反推成一张面试作战地图 · 三层结构（战略/战术/话术）· 单文件 HTML 典雅风 · Claude Code skill
@@ -159,3 +169,9 @@ jd-interview-prep/
 ## License
 
 MIT
+
+---
+<!-- daizhouchen-footer-begin -->
+
+Part of [**daizhouchen 实验集**](https://github.com/daizhouchen) → 一个 AI 应用创造者的实验现场。
+<!-- daizhouchen-footer-end -->
